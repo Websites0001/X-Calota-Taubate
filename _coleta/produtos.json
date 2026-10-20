@@ -1,0 +1,8980 @@
+{
+ "ordem": [
+  "LzxDGxoeeEbNVD4dzlbv",
+  "Ui4wGQpwJtvHJC1qfFcO",
+  "UFHHaxWnP9jAeP3ujUd6",
+  "i5fLPeFEUX5VIb6pNodA",
+  "vhUoGXF0wD3Ei3ssvnyx",
+  "ZKtZdkRSouY1t26u586z",
+  "QmGUagfaMI6boUu1VemE",
+  "OPISGgXtJmcmlxu7xsYB",
+  "oXBQ4PXIDmfwG84GKRHn",
+  "evOpDZwhC68N2FdfbhAW",
+  "KzSkNfDJFOpKDiCtQxcv",
+  "VxaYjjwXOXzce5PQoEcB",
+  "MnfvTUVHUfP7XPhllsjr",
+  "1lLsH7nbtHNXL0jUkHDI",
+  "4jRp1UXybHAojkXV9FVH"
+ ],
+ "produtos": [
+  {
+   "cat": "KzSkNfDJFOpKDiCtQxcv",
+   "catNome": "Fritas Xcb",
+   "nome": "Fritas Xcb (G)",
+   "desc": "1kg Fritas com molho especial e bacon.",
+   "preco": 82.9,
+   "slug": "fritas-xcb-(g)",
+   "falta": false,
+   "img": "c19a3032ed22a1f21f86f39acf27ebd8",
+   "grupos": []
+  },
+  {
+   "cat": "KzSkNfDJFOpKDiCtQxcv",
+   "catNome": "Fritas Xcb",
+   "nome": "Fritas Xcb (M)",
+   "desc": "500g Fritas com molho especial e bacon.",
+   "preco": 55.9,
+   "slug": "fritas-xcb-(m)",
+   "falta": false,
+   "img": "45148a5c0b5cebde6e9463304a6660b8",
+   "grupos": []
+  },
+  {
+   "cat": "KzSkNfDJFOpKDiCtQxcv",
+   "catNome": "Fritas Xcb",
+   "nome": "Fritas Xcb (P)",
+   "desc": "250g Fritas com molho especial e bacon.",
+   "preco": 34.9,
+   "slug": "fritas-xcb-(p)",
+   "falta": false,
+   "img": "b42719b50004ad5141b21c6cf3d5366c",
+   "grupos": []
+  },
+  {
+   "cat": "VxaYjjwXOXzce5PQoEcB",
+   "catNome": "Molhos",
+   "nome": "Barbecue",
+   "desc": "",
+   "preco": 5.0,
+   "slug": "barbecue",
+   "falta": false,
+   "img": "ddc96082583196f2accc447dc9fec7b7",
+   "grupos": []
+  },
+  {
+   "cat": "VxaYjjwXOXzce5PQoEcB",
+   "catNome": "Molhos",
+   "nome": "Ketchup (100 ml)",
+   "desc": "",
+   "preco": 5.0,
+   "slug": "ketchup-(100-ml)",
+   "falta": false,
+   "img": "4f260ec5f512a91073bafc952b031dfb",
+   "grupos": []
+  },
+  {
+   "cat": "VxaYjjwXOXzce5PQoEcB",
+   "catNome": "Molhos",
+   "nome": "Maionese Branca Xcb",
+   "desc": "",
+   "preco": 5.0,
+   "slug": "maionese-branca-xcb",
+   "falta": false,
+   "img": "87c831d31bdfafb01651e65757686786",
+   "grupos": []
+  },
+  {
+   "cat": "VxaYjjwXOXzce5PQoEcB",
+   "catNome": "Molhos",
+   "nome": "Maionese Verde",
+   "desc": "Maionese caseira XCB, cebolinha e salsinha. ",
+   "preco": 5.0,
+   "slug": "maionese-verde",
+   "falta": false,
+   "img": "0032eb06ca7aad608ce04d3b63480725",
+   "grupos": []
+  },
+  {
+   "cat": "VxaYjjwXOXzce5PQoEcB",
+   "catNome": "Molhos",
+   "nome": "Molho Especial Xcb ( com cheddar e Catupiry)",
+   "desc": "Maionese branca, cheddar e Catupiry.",
+   "preco": 5.0,
+   "slug": "molho-especial-xcb-(-com-cheddar-e-catupiry)",
+   "falta": false,
+   "img": "e8e1422e43cb830c2fcc1683f4fe340f",
+   "grupos": []
+  },
+  {
+   "cat": "VxaYjjwXOXzce5PQoEcB",
+   "catNome": "Molhos",
+   "nome": "Mostarda",
+   "desc": "",
+   "preco": 5.0,
+   "slug": "mostarda",
+   "falta": false,
+   "img": "35e34b152ab86e7f7267cb6a370667b1",
+   "grupos": []
+  },
+  {
+   "cat": "evOpDZwhC68N2FdfbhAW",
+   "catNome": "Fritas Tradicional",
+   "nome": "Fritas Tradicional (G)",
+   "desc": "1kg ",
+   "preco": 55.9,
+   "slug": "fritas-tradicional-(g)",
+   "falta": false,
+   "img": "044b369f04097b71134c413e64a7a986",
+   "grupos": []
+  },
+  {
+   "cat": "evOpDZwhC68N2FdfbhAW",
+   "catNome": "Fritas Tradicional",
+   "nome": "Fritas Tradicional (M)",
+   "desc": "500g",
+   "preco": 36.9,
+   "slug": "fritas-tradicional-(m)",
+   "falta": false,
+   "img": "c616ca25de9a634a541f5e88cc382acd",
+   "grupos": []
+  },
+  {
+   "cat": "evOpDZwhC68N2FdfbhAW",
+   "catNome": "Fritas Tradicional",
+   "nome": "Fritas Tradicional (P)",
+   "desc": "250g",
+   "preco": 21.9,
+   "slug": "fritas-tradicional-(p)",
+   "falta": false,
+   "img": "fec8db518df24037d997a134694cf599",
+   "grupos": []
+  },
+  {
+   "cat": "i5fLPeFEUX5VIb6pNodA",
+   "catNome": "Calotinhas (Ideal para 1 pessoa)",
+   "nome": "Calotinha Especial",
+   "desc": "Hambúrguer, ovo, presunto, queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+   "preco": 31.9,
+   "slug": "calotinha-especial",
+   "falta": false,
+   "img": "ef06db4eb551eab0c7f3f003fbf61c36",
+   "grupos": [
+    {
+     "titulo": "Adicional Calotinhas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (1 Unidade)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "1 Unidade.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (60 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "60 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 2.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (90 g)",
+       "preco": 10.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (90 g)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (90 g)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovo (1 Unidade)",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "1 Unidade",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (1 Fatia)",
+       "preco": 4.0,
+       "max": 3,
+       "desc": "1 Fatia",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (120 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "120 .",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Doritos",
+       "preco": 5.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (1 fatia)",
+       "preco": 5.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Filé",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Frango",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "i5fLPeFEUX5VIb6pNodA",
+   "catNome": "Calotinhas (Ideal para 1 pessoa)",
+   "nome": "Calotinha Bacon",
+   "desc": "Hambúrguer, bacon, ovo, presunto, queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+   "preco": 41.9,
+   "slug": "calotinha-bacon",
+   "falta": false,
+   "img": "2c5bb72d1c94216b28d107bbba201474",
+   "grupos": [
+    {
+     "titulo": "Adicional Calotinhas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (1 Unidade)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "1 Unidade.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (60 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "60 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 2.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (90 g)",
+       "preco": 10.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (90 g)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (90 g)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovo (1 Unidade)",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "1 Unidade",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (1 Fatia)",
+       "preco": 4.0,
+       "max": 3,
+       "desc": "1 Fatia",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (120 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "120 .",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Doritos",
+       "preco": 5.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (1 fatia)",
+       "preco": 5.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Filé",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Frango",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "i5fLPeFEUX5VIb6pNodA",
+   "catNome": "Calotinhas (Ideal para 1 pessoa)",
+   "nome": "Calotinha Bacon com Catupiry",
+   "desc": "Hambúrguer, bacon, Catupiry, ovo, presunto, queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+   "preco": 42.9,
+   "slug": "calotinha-bacon-com-catupiry",
+   "falta": false,
+   "img": "342728aff32989b410a3c63649f9ac72",
+   "grupos": [
+    {
+     "titulo": "Adicional Calotinhas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (1 Unidade)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "1 Unidade.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (60 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "60 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 2.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (90 g)",
+       "preco": 10.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (90 g)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (90 g)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovo (1 Unidade)",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "1 Unidade",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (1 Fatia)",
+       "preco": 4.0,
+       "max": 3,
+       "desc": "1 Fatia",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (120 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "120 .",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Doritos",
+       "preco": 5.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (1 fatia)",
+       "preco": 5.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Filé",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Frango",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "i5fLPeFEUX5VIb6pNodA",
+   "catNome": "Calotinhas (Ideal para 1 pessoa)",
+   "nome": "Calotinha Cheddar com Fritas",
+   "desc": "Hambúrguer, cheddar, fritas, ovo, presunto, queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+   "preco": 41.9,
+   "slug": "calotinha-cheddar-com-fritas",
+   "falta": false,
+   "img": "f1d1a0bc11c977b46b7bdaa0cadaa8a2",
+   "grupos": [
+    {
+     "titulo": "Adicional Calotinhas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (1 Unidade)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "1 Unidade.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (60 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "60 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 2.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (90 g)",
+       "preco": 10.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (90 g)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (90 g)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovo (1 Unidade)",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "1 Unidade",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (1 Fatia)",
+       "preco": 4.0,
+       "max": 3,
+       "desc": "1 Fatia",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (120 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "120 .",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Doritos",
+       "preco": 5.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (1 fatia)",
+       "preco": 5.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Filé",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Frango",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "i5fLPeFEUX5VIb6pNodA",
+   "catNome": "Calotinhas (Ideal para 1 pessoa)",
+   "nome": "Calotinha Calabresa",
+   "desc": "Hambúrguer, calabresa, ovo, presunto, queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+   "preco": 42.9,
+   "slug": "calotinha-calabresa",
+   "falta": false,
+   "img": "ea39ce4ed1b5016165abbcc4637fc7a8",
+   "grupos": [
+    {
+     "titulo": "Adicional Calotinhas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (1 Unidade)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "1 Unidade.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (60 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "60 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 2.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (90 g)",
+       "preco": 10.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (90 g)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (90 g)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovo (1 Unidade)",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "1 Unidade",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (1 Fatia)",
+       "preco": 4.0,
+       "max": 3,
+       "desc": "1 Fatia",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (120 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "120 .",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Doritos",
+       "preco": 5.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (1 fatia)",
+       "preco": 5.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Filé",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Frango",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "i5fLPeFEUX5VIb6pNodA",
+   "catNome": "Calotinhas (Ideal para 1 pessoa)",
+   "nome": "Calotinha Turbinado",
+   "desc": "2 hambúrgueres, 2 ovos, 2 presuntos, 2 fatias de queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+   "preco": 44.9,
+   "slug": "calotinha-turbinado",
+   "falta": false,
+   "img": "d73f6ee89997deee6c611e275ff0d03a",
+   "grupos": [
+    {
+     "titulo": "Adicional Calotinhas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (1 Unidade)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "1 Unidade.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (60 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "60 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 2.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (90 g)",
+       "preco": 10.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (90 g)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (90 g)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovo (1 Unidade)",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "1 Unidade",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (1 Fatia)",
+       "preco": 4.0,
+       "max": 3,
+       "desc": "1 Fatia",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (120 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "120 .",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Doritos",
+       "preco": 5.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (1 fatia)",
+       "preco": 5.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Filé",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Frango",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "i5fLPeFEUX5VIb6pNodA",
+   "catNome": "Calotinhas (Ideal para 1 pessoa)",
+   "nome": "Calotinha Frango",
+   "desc": "Frango em cubos, ovo, queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+   "preco": 31.9,
+   "slug": "calotinha-frango",
+   "falta": false,
+   "img": "cf991285cd3139b913974d7ca5a522fc",
+   "grupos": [
+    {
+     "titulo": "Adicional Calotinhas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (1 Unidade)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "1 Unidade.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (60 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "60 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 2.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (90 g)",
+       "preco": 10.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (90 g)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (90 g)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovo (1 Unidade)",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "1 Unidade",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (1 Fatia)",
+       "preco": 4.0,
+       "max": 3,
+       "desc": "1 Fatia",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (120 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "120 .",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Doritos",
+       "preco": 5.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (1 fatia)",
+       "preco": 5.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Filé",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Frango",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "i5fLPeFEUX5VIb6pNodA",
+   "catNome": "Calotinhas (Ideal para 1 pessoa)",
+   "nome": "Calotinha Frango c/ Catupiry",
+   "desc": "Frango em cubos, Catupiry, ovo, queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+   "preco": 36.9,
+   "slug": "calotinha-frango-c-catupiry",
+   "falta": false,
+   "img": "55f3a67ea49ba78b3ee3fee5bb2d1328",
+   "grupos": [
+    {
+     "titulo": "Adicional Calotinhas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (1 Unidade)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "1 Unidade.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (60 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "60 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 2.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (90 g)",
+       "preco": 10.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (90 g)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (90 g)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovo (1 Unidade)",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "1 Unidade",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (1 Fatia)",
+       "preco": 4.0,
+       "max": 3,
+       "desc": "1 Fatia",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (120 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "120 .",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Doritos",
+       "preco": 5.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (1 fatia)",
+       "preco": 5.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Filé",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Frango",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "i5fLPeFEUX5VIb6pNodA",
+   "catNome": "Calotinhas (Ideal para 1 pessoa)",
+   "nome": "Calotinha Frango c/ Bacon",
+   "desc": "Frango em cubos, bacon, ovos, queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+   "preco": 41.9,
+   "slug": "calotinha-frango-c-bacon",
+   "falta": false,
+   "img": "7df52e6799f30447c21a19aa239b1e21",
+   "grupos": [
+    {
+     "titulo": "Adicional Calotinhas 8",
+     "min": 0,
+     "max": 3,
+     "obrig": null,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (1 Unidade)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "1 Unidade.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (60 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "60 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 2.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (90 g)",
+       "preco": 10.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (90 g)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (90 g)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovo (1 Unidade)",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "1 Unidade",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (1 Fatia)",
+       "preco": 4.0,
+       "max": 3,
+       "desc": "1 Fatia",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (120 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "120 .",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "i5fLPeFEUX5VIb6pNodA",
+   "catNome": "Calotinhas (Ideal para 1 pessoa)",
+   "nome": "Calotinha Coração",
+   "desc": "Coração, cebola, ovo, queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+   "preco": 40.9,
+   "slug": "calotinha-coracao",
+   "falta": false,
+   "img": "33187ace9ae7cc0ae8c6246f4f4eccb3",
+   "grupos": [
+    {
+     "titulo": "Adicional Calotinhas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (1 Unidade)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "1 Unidade.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (60 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "60 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 2.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (90 g)",
+       "preco": 10.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (90 g)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (90 g)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovo (1 Unidade)",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "1 Unidade",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (1 Fatia)",
+       "preco": 4.0,
+       "max": 3,
+       "desc": "1 Fatia",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (120 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "120 .",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Doritos",
+       "preco": 5.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (1 fatia)",
+       "preco": 5.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Filé",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Frango",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "i5fLPeFEUX5VIb6pNodA",
+   "catNome": "Calotinhas (Ideal para 1 pessoa)",
+   "nome": "Calotinha cotra filé acebolado",
+   "desc": "contrafilé em tiras, cebola, ovo, queijo, mussarela, milho verde, tomante, alface, barbecue, mostarda e maionese X Calota.",
+   "preco": 52.9,
+   "slug": "calotinha-cotra-file-acebolado",
+   "falta": false,
+   "img": "ae3f503dd69fdc038db7c49b2492f548",
+   "grupos": [
+    {
+     "titulo": "Adicional Calotinhas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (1 Unidade)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "1 Unidade.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (60 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "60 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 2.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (90 g)",
+       "preco": 10.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (90 g)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (90 g)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovo (1 Unidade)",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "1 Unidade",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (1 Fatia)",
+       "preco": 4.0,
+       "max": 3,
+       "desc": "1 Fatia",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (120 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "120 .",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Doritos",
+       "preco": 5.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (1 fatia)",
+       "preco": 5.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Filé",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Frango",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "i5fLPeFEUX5VIb6pNodA",
+   "catNome": "Calotinhas (Ideal para 1 pessoa)",
+   "nome": "Calotinha Strogonoff de Frango",
+   "desc": "Strogonoff de frango, ovo, queijo maionese, ketchup, mostarda, milho, tomate e alface.",
+   "preco": 39.9,
+   "slug": "calotinha-strogonoff-de-frango",
+   "falta": false,
+   "img": "dfadc3c102731319cce7c484cd0c8602",
+   "grupos": [
+    {
+     "titulo": "Adicional Calotinhas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (1 Unidade)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "1 Unidade.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (60 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "60 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 2.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (90 g)",
+       "preco": 10.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (90 g)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (90 g)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovo (1 Unidade)",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "1 Unidade",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (1 Fatia)",
+       "preco": 4.0,
+       "max": 3,
+       "desc": "1 Fatia",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (120 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "120 .",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Doritos",
+       "preco": 5.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (1 fatia)",
+       "preco": 5.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Filé",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Frango",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "i5fLPeFEUX5VIb6pNodA",
+   "catNome": "Calotinhas (Ideal para 1 pessoa)",
+   "nome": "Calotinha Strogonoff de Carne",
+   "desc": "Strogonoff de carne, ovo, queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+   "preco": 44.9,
+   "slug": "calotinha-strogonoff-de-carne",
+   "falta": false,
+   "img": "ef1e2eb9d6951ecf4c59e6c8ec32ed96",
+   "grupos": [
+    {
+     "titulo": "Adicional Calotinhas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (1 Unidade)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "1 Unidade.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (60 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "60 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 2.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (90 g)",
+       "preco": 10.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (90 g)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (90 g)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovo (1 Unidade)",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "1 Unidade",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (1 Fatia)",
+       "preco": 4.0,
+       "max": 3,
+       "desc": "1 Fatia",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (120 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "120 .",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Doritos",
+       "preco": 5.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (1 fatia)",
+       "preco": 5.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Filé",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Frango",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "i5fLPeFEUX5VIb6pNodA",
+   "catNome": "Calotinhas (Ideal para 1 pessoa)",
+   "nome": "Calotinha Entreveiro com Frango",
+   "desc": "Hambúrguer, cebola, calabresa, bacon, frango, ovo, presunto, queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+   "preco": 43.9,
+   "slug": "calotinha-entreveiro-com-frango",
+   "falta": false,
+   "img": "03dd13f6ac3f1f2e223460363b500110",
+   "grupos": [
+    {
+     "titulo": "Adicional Calotinhas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (1 Unidade)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "1 Unidade.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (60 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "60 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 2.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (90 g)",
+       "preco": 10.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (90 g)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (90 g)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovo (1 Unidade)",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "1 Unidade",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (1 Fatia)",
+       "preco": 4.0,
+       "max": 3,
+       "desc": "1 Fatia",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (120 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "120 .",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Doritos",
+       "preco": 5.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (1 fatia)",
+       "preco": 5.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Filé",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Frango",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "i5fLPeFEUX5VIb6pNodA",
+   "catNome": "Calotinhas (Ideal para 1 pessoa)",
+   "nome": "Calotinha Entrevero com Coração",
+   "desc": "Hambúrguer, cebola, calabresa, bacon, coração, ovo, presunto, queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+   "preco": 45.9,
+   "slug": "calotinha-entrevero-com-coracao",
+   "falta": false,
+   "img": "db5084a0ecb88e2a4258d19741a8e931",
+   "grupos": [
+    {
+     "titulo": "Adicional Calotinhas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (1 Unidade)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "1 Unidade.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (60 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "60 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 2.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (90 g)",
+       "preco": 10.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (90 g)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (90 g)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovo (1 Unidade)",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "1 Unidade",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (1 Fatia)",
+       "preco": 4.0,
+       "max": 3,
+       "desc": "1 Fatia",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (120 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "120 .",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Doritos",
+       "preco": 5.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (1 fatia)",
+       "preco": 5.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Filé",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Frango",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "i5fLPeFEUX5VIb6pNodA",
+   "catNome": "Calotinhas (Ideal para 1 pessoa)",
+   "nome": "Calotinha Filé",
+   "desc": "Filé em cubos, ovo, queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+   "preco": 56.9,
+   "slug": "calotinha-file",
+   "falta": false,
+   "img": "d7feb464da750e7320764d0989fc8a9b",
+   "grupos": [
+    {
+     "titulo": "Adicional Calotinhas 15",
+     "min": 0,
+     "max": 3,
+     "obrig": null,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (1 Unidade)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "1 Unidade.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (60 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "60 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 2.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (90 g)",
+       "preco": 10.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (90 g)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (90 g)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovo (1 Unidade)",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "1 Unidade",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (1 Fatia)",
+       "preco": 4.0,
+       "max": 3,
+       "desc": "1 Fatia",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (120 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "120 .",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "i5fLPeFEUX5VIb6pNodA",
+   "catNome": "Calotinhas (Ideal para 1 pessoa)",
+   "nome": "Calotinha Filé Ao Alho e Óleo",
+   "desc": "Filé em cubos ao alho e óleo, ovo, queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+   "preco": 57.9,
+   "slug": "calotinha-file-ao-alho-e-oleo",
+   "falta": false,
+   "img": "9433275edf88ec2d756b73404358af54",
+   "grupos": [
+    {
+     "titulo": "Adicional Calotinhas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (1 Unidade)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "1 Unidade.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (60 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "60 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 2.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (90 g)",
+       "preco": 10.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (90 g)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (90 g)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovo (1 Unidade)",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "1 Unidade",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (1 Fatia)",
+       "preco": 4.0,
+       "max": 3,
+       "desc": "1 Fatia",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (120 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "120 .",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Doritos",
+       "preco": 5.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (1 fatia)",
+       "preco": 5.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Filé",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Frango",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "i5fLPeFEUX5VIb6pNodA",
+   "catNome": "Calotinhas (Ideal para 1 pessoa)",
+   "nome": "Calotinha Picanha",
+   "desc": "Picanha em cubos, ovo, queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+   "preco": 54.9,
+   "slug": "calotinha-picanha",
+   "falta": false,
+   "img": "3e2c92ac65cdb16daaae8f47a9bf8e6b",
+   "grupos": [
+    {
+     "titulo": "Adicional Calotinhas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (1 Unidade)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "1 Unidade.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (60 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "60 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 2.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (90 g)",
+       "preco": 10.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (90 g)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (90 g)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovo (1 Unidade)",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "1 Unidade",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (1 Fatia)",
+       "preco": 4.0,
+       "max": 3,
+       "desc": "1 Fatia",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (120 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "120 .",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Doritos",
+       "preco": 5.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (1 fatia)",
+       "preco": 5.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Filé",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Frango",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "i5fLPeFEUX5VIb6pNodA",
+   "catNome": "Calotinhas (Ideal para 1 pessoa)",
+   "nome": "Calotinha Picanha Soberana",
+   "desc": "Picanha em cubos, cheddar, bacon, ovo, queijo, milho, tomate, alface, ketchup, mostarda e a maionese do X Calota.",
+   "preco": 56.9,
+   "slug": "calotinha-picanha-soberana",
+   "falta": false,
+   "img": "478e1cda18e24e48863dc8967a74146c",
+   "grupos": [
+    {
+     "titulo": "Adicional Calotinhas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (1 Unidade)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "1 Unidade.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (60 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "60 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 2.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (90 g)",
+       "preco": 10.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (90 g)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (90 g)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovo (1 Unidade)",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "1 Unidade",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (1 Fatia)",
+       "preco": 4.0,
+       "max": 3,
+       "desc": "1 Fatia",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (120 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "120 .",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Doritos",
+       "preco": 5.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (1 fatia)",
+       "preco": 5.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Filé",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Frango",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "i5fLPeFEUX5VIb6pNodA",
+   "catNome": "Calotinhas (Ideal para 1 pessoa)",
+   "nome": "Calotinha Churrasco",
+   "desc": "Costela bovina em cubos, alface, cebola,   ovo,  queijo, maionese, barbecue, mostarda, milho, tomate.",
+   "preco": 42.9,
+   "slug": "calotinha-churrasco",
+   "falta": false,
+   "img": "bafe49f3976552b9460b5f1f84c5147c",
+   "grupos": [
+    {
+     "titulo": "Adicional Calotinhas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (1 Unidade)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "1 Unidade.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (60 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "60 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 2.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (90 g)",
+       "preco": 10.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (90 g)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (90 g)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovo (1 Unidade)",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "1 Unidade",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (1 Fatia)",
+       "preco": 4.0,
+       "max": 3,
+       "desc": "1 Fatia",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (120 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "120 .",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Doritos",
+       "preco": 5.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (1 fatia)",
+       "preco": 5.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Filé",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Frango",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "i5fLPeFEUX5VIb6pNodA",
+   "catNome": "Calotinhas (Ideal para 1 pessoa)",
+   "nome": "Calotinha Costela",
+   "desc": "Costela bovina em cubos, ovo, queijo, maionese, molho barbecue, mostarda, milho, tomate e alface.",
+   "preco": 42.9,
+   "slug": "calotinha-costela",
+   "falta": false,
+   "img": "166795f2b6df2b1ab9ecff675d886d3c",
+   "grupos": [
+    {
+     "titulo": "Adicional Calotinhas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (1 Unidade)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "1 Unidade.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (60 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "60 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 2.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (90 g)",
+       "preco": 10.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (90 g)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (90 g)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovo (1 Unidade)",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "1 Unidade",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (1 Fatia)",
+       "preco": 4.0,
+       "max": 3,
+       "desc": "1 Fatia",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (120 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "120 .",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Doritos",
+       "preco": 5.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (1 fatia)",
+       "preco": 5.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Filé",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Frango",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "i5fLPeFEUX5VIb6pNodA",
+   "catNome": "Calotinhas (Ideal para 1 pessoa)",
+   "nome": "Calotinha Alcatra Quatro Queijos",
+   "desc": "Alcatra em cubos, ovo, queijo mussarela, queijo prato, cheddar, Catupiry, maionese, ketchup, mostarda, milho, tomate e alface.",
+   "preco": 52.9,
+   "slug": "calotinha-alcatra-quatro-queijos",
+   "falta": false,
+   "img": "ab3dfecca4278366df42cd80a175bb93",
+   "grupos": [
+    {
+     "titulo": "Adicional Calotinhas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (1 Unidade)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "1 Unidade.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (60 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "60 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 2.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (90 g)",
+       "preco": 10.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (90 g)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (90 g)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovo (1 Unidade)",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "1 Unidade",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (1 Fatia)",
+       "preco": 4.0,
+       "max": 3,
+       "desc": "1 Fatia",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (120 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "120 .",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Doritos",
+       "preco": 5.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (1 fatia)",
+       "preco": 5.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Filé",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Frango",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "i5fLPeFEUX5VIb6pNodA",
+   "catNome": "Calotinhas (Ideal para 1 pessoa)",
+   "nome": "Calotinha Lombo com Barbecue",
+   "desc": "Lombo em cubos ao molho barbecue, ovo, queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+   "preco": 39.9,
+   "slug": "calotinha-lombo-com-barbecue",
+   "falta": false,
+   "img": "6a3d09fa0da74021454e1982c3ded6a0",
+   "grupos": [
+    {
+     "titulo": "Adicional Calotinhas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (1 Unidade)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "1 Unidade.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (60 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "60 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 2.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (90 g)",
+       "preco": 10.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (90 g)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (90 g)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovo (1 Unidade)",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "1 Unidade",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (1 Fatia)",
+       "preco": 4.0,
+       "max": 3,
+       "desc": "1 Fatia",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (120 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "120 .",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Doritos",
+       "preco": 5.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (1 fatia)",
+       "preco": 5.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Filé",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Frango",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "i5fLPeFEUX5VIb6pNodA",
+   "catNome": "Calotinhas (Ideal para 1 pessoa)",
+   "nome": "Calotinha Frango Defumado com Cream Cheese",
+   "desc": "Frango defumado, cream cheese, ovo, queijo, barcecue, maionese, ketchup, mostarda, milho, tomate e alface.",
+   "preco": 41.9,
+   "slug": "calotinha-frango-defumado-com-cream-cheese",
+   "falta": false,
+   "img": "e52359c95e97d52233f261f93a9ff565",
+   "grupos": [
+    {
+     "titulo": "Adicional Calotinhas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (1 Unidade)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "1 Unidade.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (60 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "60 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 2.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (90 g)",
+       "preco": 10.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (90 g)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (90 g)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovo (1 Unidade)",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "1 Unidade",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (1 Fatia)",
+       "preco": 4.0,
+       "max": 3,
+       "desc": "1 Fatia",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (120 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "120 .",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Doritos",
+       "preco": 5.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (1 fatia)",
+       "preco": 5.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Filé",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Frango",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "i5fLPeFEUX5VIb6pNodA",
+   "catNome": "Calotinhas (Ideal para 1 pessoa)",
+   "nome": "Calotinha Crocante Supremme",
+   "desc": "Carne bovina em cubos, Doritos, maionese, ktchup, milho, tomate, alface, cheddar, queijo mussarela, ovo.",
+   "preco": 51.9,
+   "slug": "calotinha-crocante-supremme",
+   "falta": false,
+   "img": "ac9fe59e6770b967a5b37db2cf89801c",
+   "grupos": [
+    {
+     "titulo": "Adicional Calotinhas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (1 Unidade)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "1 Unidade.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (60 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "60 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (80 g)",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "80 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 2.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (90 g)",
+       "preco": 10.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (90 g)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (90 g)",
+       "preco": 9.0,
+       "max": 3,
+       "desc": "90 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovo (1 Unidade)",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "1 Unidade",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (1 Fatia)",
+       "preco": 4.0,
+       "max": 3,
+       "desc": "1 Fatia",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (120 g)",
+       "preco": 14.0,
+       "max": 3,
+       "desc": "120 .",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Doritos",
+       "preco": 5.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (1 fatia)",
+       "preco": 5.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Filé",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calotinha Frango",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "oXBQ4PXIDmfwG84GKRHn",
+   "catNome": "Bebidas",
+   "nome": "Coca-Cola Original 2l",
+   "desc": "Ref. Coca Cola Normal 2lts",
+   "preco": 17.99,
+   "slug": "coca-cola-original-2l",
+   "falta": false,
+   "img": "01dbc2dd0d510af47cbfc7cad60339a0",
+   "grupos": []
+  },
+  {
+   "cat": "oXBQ4PXIDmfwG84GKRHn",
+   "catNome": "Bebidas",
+   "nome": "Coca-Cola Original 350 ml",
+   "desc": "",
+   "preco": 9.0,
+   "slug": "coca-cola-original-350-ml",
+   "falta": false,
+   "img": "3ed2409c644bc70a7f5681940c6772b8",
+   "grupos": []
+  },
+  {
+   "cat": "LzxDGxoeeEbNVD4dzlbv",
+   "catNome": "",
+   "nome": "Calota Alcatra 4 Queijos + Coca 2L",
+   "desc": "Alcatra em cubos, queijo mussarela, cheddar, Catupiry, parmesão, 3 ovos, milho, tomate, alface, maionese, ketchup e mostarda.",
+   "preco": 149.9,
+   "slug": "calota-alcatra-4-queijos-coca-2l",
+   "falta": true,
+   "img": "bac37e979fdfcd93466320d35275487b",
+   "grupos": [
+    {
+     "titulo": "Adicionais Calotas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (4 hamburgueres)",
+       "preco": 37.0,
+       "max": 3,
+       "desc": "Adicional de 4 hamburgueres",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (250g)",
+       "preco": 34.5,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alface",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alho e Óleo",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (250 g)",
+       "preco": 23.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (250 g)",
+       "preco": 35.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Filé",
+       "preco": 40.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (250 g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovos (3 unidades)",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "3 unidades",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (3 fatias)",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (3 fatias)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (350 g)",
+       "preco": 44.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calota Doritos",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cream cheese",
+       "preco": 13.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "LzxDGxoeeEbNVD4dzlbv",
+   "catNome": "",
+   "nome": "Calota Especial + COCA 2L",
+   "desc": "4 hambúrgueres, 3 ovos, 3 presuntos, 3 fatias de queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+   "preco": 104.9,
+   "slug": "calota-especial-coca-2l",
+   "falta": true,
+   "img": "0847e4b4b0f657e0498edcd8f4c9bb6e",
+   "grupos": [
+    {
+     "titulo": "Adicionais Calotas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (4 hamburgueres)",
+       "preco": 37.0,
+       "max": 3,
+       "desc": "Adicional de 4 hamburgueres",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (250g)",
+       "preco": 34.5,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alface",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alho e Óleo",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (250 g)",
+       "preco": 23.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (250 g)",
+       "preco": 35.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Filé",
+       "preco": 40.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (250 g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovos (3 unidades)",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "3 unidades",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (3 fatias)",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (3 fatias)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (350 g)",
+       "preco": 44.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calota Doritos",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cream cheese",
+       "preco": 13.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "LzxDGxoeeEbNVD4dzlbv",
+   "catNome": "",
+   "nome": "Combo Calota Calabresa + Coca 2L",
+   "desc": "3 hambúrgueres, Calabresa, 3 ovos, 3 presuntos, 3 fatias de queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+   "preco": 114.9,
+   "slug": "combo-calota-calabresa-coca-2l",
+   "falta": true,
+   "img": "f5e70760ddcad31100afb44c52be66fc",
+   "grupos": [
+    {
+     "titulo": "Adicionais Calotas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (4 hamburgueres)",
+       "preco": 37.0,
+       "max": 3,
+       "desc": "Adicional de 4 hamburgueres",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (250g)",
+       "preco": 34.5,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alface",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alho e Óleo",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (250 g)",
+       "preco": 23.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (250 g)",
+       "preco": 35.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Filé",
+       "preco": 40.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (250 g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovos (3 unidades)",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "3 unidades",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (3 fatias)",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (3 fatias)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (350 g)",
+       "preco": 44.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calota Doritos",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cream cheese",
+       "preco": 13.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "LzxDGxoeeEbNVD4dzlbv",
+   "catNome": "",
+   "nome": "Calota Contra Filé Acebolado + Coca-Cola 2L",
+   "desc": "",
+   "preco": 153.9,
+   "slug": "calota-contra-file-acebolado-coca-cola-2l",
+   "falta": true,
+   "img": "59fc6563229ed38da22fd12f2e71de2f",
+   "grupos": []
+  },
+  {
+   "cat": "LzxDGxoeeEbNVD4dzlbv",
+   "catNome": "",
+   "nome": "Calotinha entrevero com frango + Coca-Cola 350Ml",
+   "desc": "",
+   "preco": 46.9,
+   "slug": "calotinha-entrevero-com-frango-coca-cola-350ml",
+   "falta": true,
+   "img": "c5de8df34c71286b60e8bb81629d5968",
+   "grupos": []
+  },
+  {
+   "cat": "LzxDGxoeeEbNVD4dzlbv",
+   "catNome": "",
+   "nome": "Calotinha bacon + Coca-Cola 350Ml",
+   "desc": "",
+   "preco": 44.9,
+   "slug": "calotinha-bacon-coca-cola-350ml",
+   "falta": true,
+   "img": "53a3c8cb1309e12a761c77eb2da8fa52",
+   "grupos": []
+  },
+  {
+   "cat": "LzxDGxoeeEbNVD4dzlbv",
+   "catNome": "",
+   "nome": "Calota Bacon + Coca-Cola 2L",
+   "desc": "",
+   "preco": 123.9,
+   "slug": "calota-bacon-coca-cola-2l",
+   "falta": true,
+   "img": "7d4748a2cb23e50e363fe56fcb5b6767",
+   "grupos": []
+  },
+  {
+   "cat": "UFHHaxWnP9jAeP3ujUd6",
+   "catNome": "",
+   "nome": "Calota Especial",
+   "desc": "4 hambúrgueres, 3 ovos, 3 presuntos, 3 fatias de queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+   "preco": 95.9,
+   "slug": "calota-especial",
+   "falta": true,
+   "img": "9f1618b4ab8aee117172121cf82e15b3",
+   "grupos": [
+    {
+     "titulo": "Adicionais Calotas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (4 hamburgueres)",
+       "preco": 37.0,
+       "max": 3,
+       "desc": "Adicional de 4 hamburgueres",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (250g)",
+       "preco": 34.5,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alface",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alho e Óleo",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (250 g)",
+       "preco": 23.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (250 g)",
+       "preco": 35.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Filé",
+       "preco": 40.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (250 g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovos (3 unidades)",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "3 unidades",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (3 fatias)",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (3 fatias)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (350 g)",
+       "preco": 44.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calota Doritos",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cream cheese",
+       "preco": 13.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "UFHHaxWnP9jAeP3ujUd6",
+   "catNome": "",
+   "nome": "Calota Bacon",
+   "desc": "3 hambúrgueres, bacon, 3 ovos, 3 presuntos, 3 fatias de queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+   "preco": 110.9,
+   "slug": "calota-bacon",
+   "falta": true,
+   "img": "1bc62e6cc8ea304df3c69bd4f01429a3",
+   "grupos": [
+    {
+     "titulo": "Adicionais Calotas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (4 hamburgueres)",
+       "preco": 37.0,
+       "max": 3,
+       "desc": "Adicional de 4 hamburgueres",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (250g)",
+       "preco": 34.5,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alface",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alho e Óleo",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (250 g)",
+       "preco": 23.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (250 g)",
+       "preco": 35.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Filé",
+       "preco": 40.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (250 g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovos (3 unidades)",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "3 unidades",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (3 fatias)",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (3 fatias)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (350 g)",
+       "preco": 44.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calota Doritos",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cream cheese",
+       "preco": 13.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "UFHHaxWnP9jAeP3ujUd6",
+   "catNome": "",
+   "nome": "Calota Bacon c/ Catupiry",
+   "desc": "3 hambúrgueres, bacon, Catupiry,  3 ovos, 3 presuntos, 3 fatias de queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+   "preco": 115.9,
+   "slug": "calota-bacon-c-catupiry",
+   "falta": true,
+   "img": "2804cd8e5858bb0b3c130ecf456feff1",
+   "grupos": [
+    {
+     "titulo": "Adicionais Calotas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (4 hamburgueres)",
+       "preco": 37.0,
+       "max": 3,
+       "desc": "Adicional de 4 hamburgueres",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (250g)",
+       "preco": 34.5,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alface",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alho e Óleo",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (250 g)",
+       "preco": 23.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (250 g)",
+       "preco": 35.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Filé",
+       "preco": 40.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (250 g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovos (3 unidades)",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "3 unidades",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (3 fatias)",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (3 fatias)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (350 g)",
+       "preco": 44.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calota Doritos",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cream cheese",
+       "preco": 13.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "UFHHaxWnP9jAeP3ujUd6",
+   "catNome": "",
+   "nome": "Calota Cheddar com Fritas",
+   "desc": "3 Hambúrgueres, cheddar, fritas, 3 ovos, 3 presuntos, 3 fatisas de queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+   "preco": 110.9,
+   "slug": "calota-cheddar-com-fritas",
+   "falta": true,
+   "img": "410a215dba47f195ba607536e0c09060",
+   "grupos": [
+    {
+     "titulo": "Adicionais Calotas 4",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (4 hamburgueres)",
+       "preco": 37.0,
+       "max": 3,
+       "desc": "Adicional de 4 hamburgueres",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (250g)",
+       "preco": 34.5,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alface",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alho e Óleo",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (250 g)",
+       "preco": 23.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (250 g)",
+       "preco": 35.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Filé",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (250 g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovos (3 unidades)",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "3 unidades",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (3 fatias)",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (3 fatias)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (350 g)",
+       "preco": 44.0,
+       "max": 3,
+       "desc": "350 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calota Doritos",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "UFHHaxWnP9jAeP3ujUd6",
+   "catNome": "",
+   "nome": "Calota Calabresa",
+   "desc": "3 hambúrgueres, Calabresa, 3 ovos, 3 presuntos, 3 fatias de queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+   "preco": 105.9,
+   "slug": "calota-calabresa",
+   "falta": true,
+   "img": "237fd5354da888a1e6a2192ecefcb156",
+   "grupos": [
+    {
+     "titulo": "Adicionais Calotas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (4 hamburgueres)",
+       "preco": 37.0,
+       "max": 3,
+       "desc": "Adicional de 4 hamburgueres",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (250g)",
+       "preco": 34.5,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alface",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alho e Óleo",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (250 g)",
+       "preco": 23.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (250 g)",
+       "preco": 35.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Filé",
+       "preco": 40.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (250 g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovos (3 unidades)",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "3 unidades",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (3 fatias)",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (3 fatias)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (350 g)",
+       "preco": 44.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calota Doritos",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cream cheese",
+       "preco": 13.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "UFHHaxWnP9jAeP3ujUd6",
+   "catNome": "",
+   "nome": "Calota Turbinado",
+   "desc": "6 hambúrgueres, 4 ovos, 4 presuntos, 4 queijos, maionese, ketchup, mostarda, milho, tomate e alface.",
+   "preco": 120.9,
+   "slug": "calota-turbinado",
+   "falta": true,
+   "img": "2f7be84ce1825f5ed8dabb626e61ab05",
+   "grupos": [
+    {
+     "titulo": "Adicionais Calotas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (4 hamburgueres)",
+       "preco": 37.0,
+       "max": 3,
+       "desc": "Adicional de 4 hamburgueres",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (250g)",
+       "preco": 34.5,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alface",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alho e Óleo",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (250 g)",
+       "preco": 23.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (250 g)",
+       "preco": 35.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Filé",
+       "preco": 40.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (250 g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovos (3 unidades)",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "3 unidades",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (3 fatias)",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (3 fatias)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (350 g)",
+       "preco": 44.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calota Doritos",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cream cheese",
+       "preco": 13.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "UFHHaxWnP9jAeP3ujUd6",
+   "catNome": "",
+   "nome": "Calota Frango",
+   "desc": "Frango em cubos, 3 ovos, 3 fatias de queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+   "preco": 90.9,
+   "slug": "calota-frango",
+   "falta": true,
+   "img": "6a1606bde85d1e4d425a1fc3cbe530f0",
+   "grupos": [
+    {
+     "titulo": "Adicionais Calotas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (4 hamburgueres)",
+       "preco": 37.0,
+       "max": 3,
+       "desc": "Adicional de 4 hamburgueres",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (250g)",
+       "preco": 34.5,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alface",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alho e Óleo",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (250 g)",
+       "preco": 23.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (250 g)",
+       "preco": 35.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Filé",
+       "preco": 40.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (250 g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovos (3 unidades)",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "3 unidades",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (3 fatias)",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (3 fatias)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (350 g)",
+       "preco": 44.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calota Doritos",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cream cheese",
+       "preco": 13.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "UFHHaxWnP9jAeP3ujUd6",
+   "catNome": "",
+   "nome": "Calota Frango c/ Catupiry",
+   "desc": "Frango em cubos, Catupiry,  3 ovos, 3 fatias de queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+   "preco": 100.9,
+   "slug": "calota-frango-c-catupiry",
+   "falta": true,
+   "img": "3c5a111bc46b789215c734bd1d76e486",
+   "grupos": [
+    {
+     "titulo": "Adicionais Calotas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (4 hamburgueres)",
+       "preco": 37.0,
+       "max": 3,
+       "desc": "Adicional de 4 hamburgueres",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (250g)",
+       "preco": 34.5,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alface",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alho e Óleo",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (250 g)",
+       "preco": 23.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (250 g)",
+       "preco": 35.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Filé",
+       "preco": 40.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (250 g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovos (3 unidades)",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "3 unidades",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (3 fatias)",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (3 fatias)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (350 g)",
+       "preco": 44.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calota Doritos",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cream cheese",
+       "preco": 13.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "UFHHaxWnP9jAeP3ujUd6",
+   "catNome": "",
+   "nome": "Calota Frango c/ Bacon",
+   "desc": "Frango em cubos, bacon, 3 ovos, 3 fatias de queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+   "preco": 105.9,
+   "slug": "calota-frango-c-bacon",
+   "falta": true,
+   "img": "bb8242266f70d32ef7662c1b51e872a5",
+   "grupos": [
+    {
+     "titulo": "Adicionais Calotas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (4 hamburgueres)",
+       "preco": 37.0,
+       "max": 3,
+       "desc": "Adicional de 4 hamburgueres",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (250g)",
+       "preco": 34.5,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alface",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alho e Óleo",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (250 g)",
+       "preco": 23.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (250 g)",
+       "preco": 35.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Filé",
+       "preco": 40.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (250 g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovos (3 unidades)",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "3 unidades",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (3 fatias)",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (3 fatias)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (350 g)",
+       "preco": 44.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calota Doritos",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cream cheese",
+       "preco": 13.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "UFHHaxWnP9jAeP3ujUd6",
+   "catNome": "",
+   "nome": "Calota Coração",
+   "desc": "Coração, cebola, 3 ovos, 3 fatias de queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+   "preco": 110.9,
+   "slug": "calota-coracao",
+   "falta": true,
+   "img": "15330d109ec7725ad8a794789115d123",
+   "grupos": [
+    {
+     "titulo": "Adicionais Calotas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (4 hamburgueres)",
+       "preco": 37.0,
+       "max": 3,
+       "desc": "Adicional de 4 hamburgueres",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (250g)",
+       "preco": 34.5,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alface",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alho e Óleo",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (250 g)",
+       "preco": 23.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (250 g)",
+       "preco": 35.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Filé",
+       "preco": 40.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (250 g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovos (3 unidades)",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "3 unidades",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (3 fatias)",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (3 fatias)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (350 g)",
+       "preco": 44.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calota Doritos",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cream cheese",
+       "preco": 13.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "UFHHaxWnP9jAeP3ujUd6",
+   "catNome": "",
+   "nome": "Calota Contra Filé Acebolado",
+   "desc": "Contrafilé em tiras, cebola,  ovos, queijo mussarela, maionese, ketchup, mostarda, milho, tomate e alface e barbecue.",
+   "preco": 140.9,
+   "slug": "calota-contra-file-acebolado",
+   "falta": true,
+   "img": "4a8df96280d41b6d345d63b0df56996f",
+   "grupos": [
+    {
+     "titulo": "Adicionais Calotas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (4 hamburgueres)",
+       "preco": 37.0,
+       "max": 3,
+       "desc": "Adicional de 4 hamburgueres",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (250g)",
+       "preco": 34.5,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alface",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alho e Óleo",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (250 g)",
+       "preco": 23.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (250 g)",
+       "preco": 35.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Filé",
+       "preco": 40.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (250 g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovos (3 unidades)",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "3 unidades",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (3 fatias)",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (3 fatias)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (350 g)",
+       "preco": 44.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calota Doritos",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cream cheese",
+       "preco": 13.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "UFHHaxWnP9jAeP3ujUd6",
+   "catNome": "",
+   "nome": "Calota Strogonoff de Frango",
+   "desc": "Strogonoff de frango, 3 ovos, 3 fatias de queijo maionese, ketchup, mostarda, milho, tomate e alface.",
+   "preco": 105.9,
+   "slug": "calota-strogonoff-de-frango",
+   "falta": true,
+   "img": "7c263c4d689e94ba89e292ccbaf4ab99",
+   "grupos": [
+    {
+     "titulo": "Adicionais Calotas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (4 hamburgueres)",
+       "preco": 37.0,
+       "max": 3,
+       "desc": "Adicional de 4 hamburgueres",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (250g)",
+       "preco": 34.5,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alface",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alho e Óleo",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (250 g)",
+       "preco": 23.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (250 g)",
+       "preco": 35.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Filé",
+       "preco": 40.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (250 g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovos (3 unidades)",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "3 unidades",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (3 fatias)",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (3 fatias)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (350 g)",
+       "preco": 44.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calota Doritos",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cream cheese",
+       "preco": 13.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "UFHHaxWnP9jAeP3ujUd6",
+   "catNome": "",
+   "nome": "Calota  Strogonoff de Carne",
+   "desc": "Strogonoff de carne, 3 ovos, 3 fatias de queijo maionese, ketchup, mostarda, milho, tomate e alface.",
+   "preco": 120.9,
+   "slug": "calota-strogonoff-de-carne",
+   "falta": true,
+   "img": "674675a8860f733db586b48092e183d8",
+   "grupos": [
+    {
+     "titulo": "Adicionais Calotas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (4 hamburgueres)",
+       "preco": 37.0,
+       "max": 3,
+       "desc": "Adicional de 4 hamburgueres",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (250g)",
+       "preco": 34.5,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alface",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alho e Óleo",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (250 g)",
+       "preco": 23.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (250 g)",
+       "preco": 35.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Filé",
+       "preco": 40.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (250 g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovos (3 unidades)",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "3 unidades",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (3 fatias)",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (3 fatias)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (350 g)",
+       "preco": 44.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calota Doritos",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cream cheese",
+       "preco": 13.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "UFHHaxWnP9jAeP3ujUd6",
+   "catNome": "",
+   "nome": "Calota Entreveiro com Frango",
+   "desc": "3 hambúrguer, cebola, calabresa, bacon, frango, 3 ovos, 3 presuntos, 3 fatias de queijo maionese, ketchup, mostarda, milho, tomate e alface.",
+   "preco": 120.9,
+   "slug": "calota-entreveiro-com-frango",
+   "falta": true,
+   "img": "df36738c98a1334ab559c6224fbdf789",
+   "grupos": [
+    {
+     "titulo": "Adicionais Calotas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (4 hamburgueres)",
+       "preco": 37.0,
+       "max": 3,
+       "desc": "Adicional de 4 hamburgueres",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (250g)",
+       "preco": 34.5,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alface",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alho e Óleo",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (250 g)",
+       "preco": 23.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (250 g)",
+       "preco": 35.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Filé",
+       "preco": 40.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (250 g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovos (3 unidades)",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "3 unidades",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (3 fatias)",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (3 fatias)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (350 g)",
+       "preco": 44.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calota Doritos",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cream cheese",
+       "preco": 13.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "UFHHaxWnP9jAeP3ujUd6",
+   "catNome": "",
+   "nome": "Calota Entrevero com Coração",
+   "desc": "3 hambúrguer, cebola, calabresa, bacon, coração, 3 ovos, 3 presuntos, 3 fatias de queijo maionese, ketchup, mostarda, milho, tomate e alface.",
+   "preco": 130.9,
+   "slug": "calota-entrevero-com-coracao",
+   "falta": true,
+   "img": "c5ae2218e6c68af29a4165e6064e8bdf",
+   "grupos": [
+    {
+     "titulo": "Adicionais Calotas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (4 hamburgueres)",
+       "preco": 37.0,
+       "max": 3,
+       "desc": "Adicional de 4 hamburgueres",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (250g)",
+       "preco": 34.5,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alface",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alho e Óleo",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (250 g)",
+       "preco": 23.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (250 g)",
+       "preco": 35.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Filé",
+       "preco": 40.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (250 g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovos (3 unidades)",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "3 unidades",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (3 fatias)",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (3 fatias)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (350 g)",
+       "preco": 44.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calota Doritos",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cream cheese",
+       "preco": 13.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "UFHHaxWnP9jAeP3ujUd6",
+   "catNome": "",
+   "nome": "Calota Filé",
+   "desc": "Filé em cubos, 3 ovos, 3 fatias de queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+   "preco": 149.9,
+   "slug": "calota-file",
+   "falta": true,
+   "img": "ddad15f9180c6d13c398a53e6567a323",
+   "grupos": [
+    {
+     "titulo": "Adicionais Calotas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (4 hamburgueres)",
+       "preco": 37.0,
+       "max": 3,
+       "desc": "Adicional de 4 hamburgueres",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (250g)",
+       "preco": 34.5,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alface",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alho e Óleo",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (250 g)",
+       "preco": 23.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (250 g)",
+       "preco": 35.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Filé",
+       "preco": 40.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (250 g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovos (3 unidades)",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "3 unidades",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (3 fatias)",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (3 fatias)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (350 g)",
+       "preco": 44.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calota Doritos",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cream cheese",
+       "preco": 13.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "UFHHaxWnP9jAeP3ujUd6",
+   "catNome": "",
+   "nome": "Calota Filé ao Alho e Óleo",
+   "desc": "Filé em cubos ao alho e óleo, 3 ovos, 3 fatias de queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+   "preco": 150.9,
+   "slug": "calota-file-ao-alho-e-oleo",
+   "falta": true,
+   "img": "ed9723038d543cfe1da109a78e523dd0",
+   "grupos": [
+    {
+     "titulo": "Adicionais Calotas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (4 hamburgueres)",
+       "preco": 37.0,
+       "max": 3,
+       "desc": "Adicional de 4 hamburgueres",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (250g)",
+       "preco": 34.5,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alface",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alho e Óleo",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (250 g)",
+       "preco": 23.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (250 g)",
+       "preco": 35.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Filé",
+       "preco": 40.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (250 g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovos (3 unidades)",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "3 unidades",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (3 fatias)",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (3 fatias)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (350 g)",
+       "preco": 44.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calota Doritos",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cream cheese",
+       "preco": 13.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "UFHHaxWnP9jAeP3ujUd6",
+   "catNome": "",
+   "nome": "Calota Picanha",
+   "desc": "Picanha em cubos, 3 ovos, 3 fatias de queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+   "preco": 145.9,
+   "slug": "calota-picanha",
+   "falta": true,
+   "img": "cfe50bbe04bfb67823ffd7cd622ac3fa",
+   "grupos": [
+    {
+     "titulo": "Adicionais Calotas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (4 hamburgueres)",
+       "preco": 37.0,
+       "max": 3,
+       "desc": "Adicional de 4 hamburgueres",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (250g)",
+       "preco": 34.5,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alface",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alho e Óleo",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (250 g)",
+       "preco": 23.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (250 g)",
+       "preco": 35.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Filé",
+       "preco": 40.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (250 g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovos (3 unidades)",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "3 unidades",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (3 fatias)",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (3 fatias)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (350 g)",
+       "preco": 44.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calota Doritos",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cream cheese",
+       "preco": 13.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "UFHHaxWnP9jAeP3ujUd6",
+   "catNome": "",
+   "nome": "Calota Picanha Soberana",
+   "desc": "Picanha em cubos, cheddar, bacon,  3 ovos, 3 fatias de queijos, milho, tomate, alface, ketchup, mostarda e a maionese do X Calota.",
+   "preco": 150.9,
+   "slug": "calota-picanha-soberana",
+   "falta": true,
+   "img": "74b879d016d4c55046d69e932ab0591d",
+   "grupos": [
+    {
+     "titulo": "Adicionais Calotas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (4 hamburgueres)",
+       "preco": 37.0,
+       "max": 3,
+       "desc": "Adicional de 4 hamburgueres",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (250g)",
+       "preco": 34.5,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alface",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alho e Óleo",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (250 g)",
+       "preco": 23.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (250 g)",
+       "preco": 35.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Filé",
+       "preco": 40.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (250 g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovos (3 unidades)",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "3 unidades",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (3 fatias)",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (3 fatias)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (350 g)",
+       "preco": 44.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calota Doritos",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cream cheese",
+       "preco": 13.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "UFHHaxWnP9jAeP3ujUd6",
+   "catNome": "",
+   "nome": "Calota Costela",
+   "desc": "Costela bovina em cubos, 3 ovos, 3 fatias de queijo, maionese, barbecue, mostarda, milho, tomate e alface.",
+   "preco": 120.9,
+   "slug": "calota-costela",
+   "falta": true,
+   "img": "c35c78ecab8cf1dfe193d635160608ed",
+   "grupos": [
+    {
+     "titulo": "Adicionais Calotas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (4 hamburgueres)",
+       "preco": 37.0,
+       "max": 3,
+       "desc": "Adicional de 4 hamburgueres",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (250g)",
+       "preco": 34.5,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alface",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alho e Óleo",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (250 g)",
+       "preco": 23.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (250 g)",
+       "preco": 35.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Filé",
+       "preco": 40.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (250 g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovos (3 unidades)",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "3 unidades",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (3 fatias)",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (3 fatias)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (350 g)",
+       "preco": 44.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calota Doritos",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cream cheese",
+       "preco": 13.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "UFHHaxWnP9jAeP3ujUd6",
+   "catNome": "",
+   "nome": "Calota Churrasco",
+   "desc": "Costela bovina em cubos, cebola,  3 ovos, 3 fatias de queijo, maionese, barbecue, mostarda, milho, tomate e alface.",
+   "preco": 120.9,
+   "slug": "calota-churrasco",
+   "falta": true,
+   "img": "eda176405b0d278696c7dc3111db10a3",
+   "grupos": [
+    {
+     "titulo": "Adicionais Calotas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (4 hamburgueres)",
+       "preco": 37.0,
+       "max": 3,
+       "desc": "Adicional de 4 hamburgueres",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (250g)",
+       "preco": 34.5,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alface",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alho e Óleo",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (250 g)",
+       "preco": 23.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (250 g)",
+       "preco": 35.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Filé",
+       "preco": 40.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (250 g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovos (3 unidades)",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "3 unidades",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (3 fatias)",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (3 fatias)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (350 g)",
+       "preco": 44.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calota Doritos",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cream cheese",
+       "preco": 13.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "UFHHaxWnP9jAeP3ujUd6",
+   "catNome": "",
+   "nome": "Calota Alcatra Quatro Queijos",
+   "desc": "Alcatra em cubos, 3 ovos, queijo mussarela, cheddar, queijo prato, Catupiry, maionese, ketchup, mostarda, milho, tomate e alface.",
+   "preco": 140.9,
+   "slug": "calota-alcatra-quatro-queijos",
+   "falta": true,
+   "img": "d03eea30158f6a1d705f5ed4d32a2e80",
+   "grupos": [
+    {
+     "titulo": "Adicionais Calotas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (4 hamburgueres)",
+       "preco": 37.0,
+       "max": 3,
+       "desc": "Adicional de 4 hamburgueres",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (250g)",
+       "preco": 34.5,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alface",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alho e Óleo",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (250 g)",
+       "preco": 23.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (250 g)",
+       "preco": 35.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Filé",
+       "preco": 40.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (250 g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovos (3 unidades)",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "3 unidades",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (3 fatias)",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (3 fatias)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (350 g)",
+       "preco": 44.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calota Doritos",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cream cheese",
+       "preco": 13.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "UFHHaxWnP9jAeP3ujUd6",
+   "catNome": "",
+   "nome": "Calota Lombo com Barbecue",
+   "desc": "Lombo em cubos ao molho barbecue, 3 ovos, 3 fatias de queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+   "preco": 110.9,
+   "slug": "calota-lombo-com-barbecue",
+   "falta": true,
+   "img": "ef112714f6b89cb3d37a5e26d3e8f52a",
+   "grupos": [
+    {
+     "titulo": "Adicionais Calotas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (4 hamburgueres)",
+       "preco": 37.0,
+       "max": 3,
+       "desc": "Adicional de 4 hamburgueres",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (250g)",
+       "preco": 34.5,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alface",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alho e Óleo",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (250 g)",
+       "preco": 23.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (250 g)",
+       "preco": 35.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Filé",
+       "preco": 40.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (250 g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovos (3 unidades)",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "3 unidades",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (3 fatias)",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (3 fatias)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (350 g)",
+       "preco": 44.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calota Doritos",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cream cheese",
+       "preco": 13.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "UFHHaxWnP9jAeP3ujUd6",
+   "catNome": "",
+   "nome": "Calota Frango Defumado com Cream Cheese",
+   "desc": "Frango defumado, cream cheese,  3 ovos, 3 fatias de queijo, barcecue,  maionese, ketchup, mostarda, milho, tomate e alface.",
+   "preco": 105.9,
+   "slug": "calota-frango-defumado-com-cream-cheese",
+   "falta": true,
+   "img": "9860792f98b1f5455c3bcddf99e01fc5",
+   "grupos": []
+  },
+  {
+   "cat": "UFHHaxWnP9jAeP3ujUd6",
+   "catNome": "",
+   "nome": "Calota Crocante Supremme",
+   "desc": "Carne bovina em cubos, Doritos, maionese, ktchup, milho, tomate, alface, cheddar, 3 fatias de queijo mussarela, 3 ovos.",
+   "preco": 139.9,
+   "slug": "calota-crocante-supremme",
+   "falta": true,
+   "img": "ef2d30d47eae6ad57705f85b08eaf632",
+   "grupos": [
+    {
+     "titulo": "Adicionais Calotas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (4 hamburgueres)",
+       "preco": 37.0,
+       "max": 3,
+       "desc": "Adicional de 4 hamburgueres",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (250g)",
+       "preco": 34.5,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alface",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alho e Óleo",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (250 g)",
+       "preco": 23.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (250 g)",
+       "preco": 35.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Filé",
+       "preco": 40.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (250 g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovos (3 unidades)",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "3 unidades",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (3 fatias)",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (3 fatias)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (350 g)",
+       "preco": 44.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calota Doritos",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cream cheese",
+       "preco": 13.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "UFHHaxWnP9jAeP3ujUd6",
+   "catNome": "",
+   "nome": "Calota Mexicano",
+   "desc": "Carne bovina em cubos, Doritos, Pimenta, maionese, ketchup, milho, tomate, alface, cheddar, 3 fatias de queijo mussarela, 3 ovos.",
+   "preco": 140.9,
+   "slug": "calota-mexicano",
+   "falta": true,
+   "img": "6cadb6b3f101ebed0426c0abe7ea39c5",
+   "grupos": [
+    {
+     "titulo": "Adicionais Calotas",
+     "min": 0,
+     "max": 3,
+     "obrig": false,
+     "tipo": "increase",
+     "ativo": true,
+     "opcoes": [
+      {
+       "nome": "Hambúrguer (4 hamburgueres)",
+       "preco": 37.0,
+       "max": 3,
+       "desc": "Adicional de 4 hamburgueres",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alcatra (250g)",
+       "preco": 34.5,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alface",
+       "preco": 3.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Alho e Óleo",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Bacon (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Calabresa (150g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "150 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Catupiry",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cebola",
+       "preco": 6.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cheddar",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Coração (250 g)",
+       "preco": 23.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Costela (250 g)",
+       "preco": 35.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Filé",
+       "preco": 40.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Frango (250 g)",
+       "preco": 18.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Ovos (3 unidades)",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "3 unidades",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Presunto (3 fatias)",
+       "preco": 7.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Queijo (3 fatias)",
+       "preco": 12.0,
+       "max": 3,
+       "desc": "3 Fatias",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Strogonoff de Carne (350 g)",
+       "preco": 44.0,
+       "max": 3,
+       "desc": "250 g.",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Adicional Calota Doritos",
+       "preco": 11.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      },
+      {
+       "nome": "Cream cheese",
+       "preco": 13.0,
+       "max": 3,
+       "desc": "",
+       "ativo": true,
+       "falta": false
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

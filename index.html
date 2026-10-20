@@ -1,0 +1,247 @@
+<!doctype html>
+<html lang="pt-BR" data-theme="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>X Calota Taubaté</title>
+  <meta name="description" content="Cardápio do X Calota Taubaté: Calota de 28 cm para dividir com até 4 pessoas, Calotinhas, combos, fritas e molhos. Praça Santa Terezinha, 159, Centro.">
+  <meta name="robots" content="noindex">
+  <meta name="theme-color" content="#FFC20E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@600..900&family=Rubik:wght@400..800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/estilo.css">
+  <link rel="icon" href="fotos/local/logo-x-calota.webp">
+</head>
+<body>
+  <a class="skip" href="#cardapio">Pular para o cardápio</a>
+
+  <div class="loader" id="loader" aria-hidden="true">
+    <div class="loader__disc"><span></span><span></span></div>
+    <div class="loader__word"><b>X</b>Calota</div>
+  </div>
+
+  <header class="topbar" id="topbar">
+    <div class="topbar__inner wrap">
+      <a href="#inicio" class="brand" aria-label="X Calota Taubaté, voltar ao início">
+        <img src="fotos/local/logo-x-calota.webp" alt="" width="46" height="46">
+        <span class="brand__txt"><b>X Calota</b><small>Taubaté · Centro</small></span>
+      </a>
+      <nav class="topnav" aria-label="Seções">
+        <a href="#cardapio">Cardápio</a>
+        <a href="#mais-pedidos">Mais pedidos</a>
+        <a href="#dividir">Quanto sai por pessoa?</a>
+        <button type="button" data-open-explore>Galeria infinita</button>
+        <a href="#onde">Onde estamos</a>
+      </nav>
+      <div class="topbar__actions">
+        <span class="status" id="status"><i></i><span>—</span></span>
+        <button type="button" class="icon-btn" id="themeBtn" aria-label="Alternar tema claro e escuro">
+          <svg class="i-moon" viewBox="0 0 24 24" aria-hidden="true"><path d="M20 14.6A8.2 8.2 0 0 1 9.4 4a8.2 8.2 0 1 0 10.6 10.6z"/></svg>
+          <svg class="i-sun" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4.2"/><path d="M12 2.5v2.2M12 19.3v2.2M4.6 4.6l1.6 1.6M17.8 17.8l1.6 1.6M2.5 12h2.2M19.3 12h2.2M4.6 19.4l1.6-1.6M17.8 6.2l1.6-1.6"/></svg>
+        </button>
+        <button type="button" class="bag-btn" id="bagBtn" aria-label="Abrir sacola de pedido">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5.5 8h13l-1 12.2a1 1 0 0 1-1 .8h-9a1 1 0 0 1-1-.8z"/><path d="M9 8V6.8a3 3 0 0 1 6 0V8"/></svg>
+          <span class="bag-btn__label">Sacola</span>
+          <span class="bag-btn__count" id="bagCount">0</span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main id="inicio">
+    <!-- Hero -->
+    <section class="hero wrap" aria-labelledby="heroTitle">
+      <div class="hero__copy">
+        <span class="sticker sticker--tilt">Feito pra dividir</span>
+        <h1 class="hero__title" id="heroTitle">
+          <span class="ln"><span class="w big">28<small>cm</small></span></span>
+          <span class="ln"><span class="w">de lanche</span></span>
+          <span class="ln"><span class="w red">pra até 4</span></span>
+        </h1>
+        <p class="hero__lead">“<span data-frase="facebook"></span>” Peça pelo WhatsApp ou retire na Praça Santa Terezinha, no Centro.</p>
+        <div class="hero__cta">
+          <a href="#cardapio" class="btn btn--red">Ver cardápio <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5v14M6 13l6 6 6-6"/></svg></a>
+          <a href="#dividir" class="btn btn--ghost">Quanto sai por pessoa?</a>
+        </div>
+        <ul class="hero__facts">
+          <li><b id="factPreco">R$ 90,90</b><span>a Calota mais em conta</span></li>
+          <li><b id="factHoje">17h30–0h</b><span id="factHojeTxt">hoje</span></li>
+          <li><b data-loja-entrega="tempo"></b><span>tempo de entrega</span></li>
+        </ul>
+      </div>
+      <div class="hero__stage" aria-hidden="true">
+        <div class="calota" id="calota">
+          <svg class="calota__ring" viewBox="0 0 400 400"><defs><path id="ring" d="M200,200 m-176,0 a176,176 0 1,1 352,0 a176,176 0 1,1 -352,0"/></defs><text><textPath href="#ring">28 CM · SERVE ATÉ 4 PESSOAS · X CALOTA TAUBATÉ · 28 CM · SERVE ATÉ 4 PESSOAS · X CALOTA TAUBATÉ ·</textPath></text></svg>
+          <div class="calota__disc"><img data-item="calota-especial" alt=""></div>
+        </div>
+        <span class="badge-float b1">28 cm</span>
+        <span class="badge-float b2">Serve até 4</span>
+        <span class="badge-float b3">Calotinha: só pra você</span>
+      </div>
+    </section>
+
+    <svg class="wave" viewBox="0 0 1440 60" preserveAspectRatio="none" aria-hidden="true"><path d="M0 30 C 120 0, 240 60, 360 30 S 600 0, 720 30 S 960 60, 1080 30 S 1320 0, 1440 30 V60 H0Z"/></svg>
+    <div class="band" aria-hidden="true"><div class="band__track" id="bandTrack"></div></div>
+
+    <!-- Mais pedidos -->
+    <section class="favs" id="mais-pedidos" aria-labelledby="favsTitle">
+      <div class="wrap favs__head">
+        <div>
+          <p class="kicker">Mais pedidos</p>
+          <h2 class="h2" id="favsTitle">Os que <em>mais saem</em> por aqui.</h2>
+        </div>
+        <div class="favs__ctrl">
+          <span class="hint"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 12h8M5 9l-3 3 3 3M19 9l3 3-3 3"/></svg>Arraste</span>
+          <button type="button" class="round-btn" id="favPrev" aria-label="Anterior"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg></button>
+          <button type="button" class="round-btn" id="favNext" aria-label="Próximo"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7"/></svg></button>
+        </div>
+      </div>
+      <div class="favs__viewport" id="favViewport"><div class="favs__track" id="favTrack" role="list"></div></div>
+    </section>
+
+    <!-- Quanto sai por pessoa -->
+    <section class="split wrap" id="dividir" aria-labelledby="splitTitle">
+      <div class="split__card">
+        <div class="split__copy">
+          <p class="kicker kicker--dark">Quanto sai por pessoa?</p>
+          <h2 class="h2" id="splitTitle">Divida a Calota.</h2>
+          <div class="split__form">
+            <label class="field"><span>Escolha a Calota</span><select id="splitItem"></select></label>
+            <div class="field"><span>Quantas pessoas?</span>
+              <div class="people" role="radiogroup" aria-label="Quantas pessoas" id="splitPeople">
+                <label><input type="radio" name="pp" value="1"><span>1</span></label>
+                <label><input type="radio" name="pp" value="2"><span>2</span></label>
+                <label><input type="radio" name="pp" value="3"><span>3</span></label>
+                <label><input type="radio" name="pp" value="4" checked><span>4</span></label>
+              </div>
+            </div>
+          </div>
+          <div class="split__result" aria-live="polite">
+            <span class="split__per" id="splitPer">R$ 0,00</span><span class="split__lbl">por pessoa</span>
+            <p class="split__cmp" id="splitCmp"></p>
+          </div>
+          <button type="button" class="btn btn--dark" id="splitAdd">Pôr na sacola</button>
+        </div>
+        <div class="split__visual">
+          <svg class="pie" id="pie" viewBox="-110 -110 220 220" aria-hidden="true">
+            <defs><clipPath id="pieClip"><circle r="100"/></clipPath></defs>
+            <image id="pieImg" x="-150" y="-112" width="300" height="225" clip-path="url(#pieClip)" preserveAspectRatio="xMidYMid slice"/>
+            <g id="pieSlices"></g>
+            <circle r="100" fill="none" stroke="currentColor" stroke-width="5"/>
+          </svg>
+          <figure class="split__photo">
+            <img data-foto="caixa" alt="Calota na caixa do X Calota, cortada em quatro" loading="lazy">
+            <figcaption>Foto: Chris Gemini no Google Maps</figcaption>
+          </figure>
+        </div>
+      </div>
+    </section>
+
+    <!-- Cardápio -->
+    <section class="menu" id="cardapio" aria-labelledby="menuTitle">
+      <div class="wrap menu__intro">
+        <p class="kicker">Cardápio completo</p>
+        <h2 class="h2" id="menuTitle"><span id="menuCount">72</span> opções, <em>da Calota à Coca</em>.</h2>
+        <div class="filters" id="filters" role="group" aria-label="Filtrar por ingrediente"></div>
+      </div>
+      <div class="menubar" id="menubar">
+        <div class="wrap menubar__inner">
+          <div class="tabs"><div class="tabs__scroller" id="tabsScroller">
+            <ul class="tabs__list" id="tabsList"></ul>
+            <ul class="tabs__list tabs__list--active" id="tabsActive" aria-hidden="true"></ul>
+          </div></div>
+          <label class="search" id="searchBox">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="M20 20l-4.2-4.2"/></svg>
+            <span class="sr-only">Buscar no cardápio</span>
+            <input type="search" id="search" placeholder="Buscar: picanha, catupiry, bacon…" autocomplete="off" enterkeyhint="search">
+            <button type="button" class="search__clear" id="searchClear" aria-label="Limpar busca"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 7l10 10M17 7L7 17"/></svg></button>
+          </label>
+        </div>
+      </div>
+      <div class="wrap" id="menuSections"></div>
+      <div class="wrap empty" id="empty" hidden>
+        <h3>Nada com esse nome</h3>
+        <p>Tente outra palavra ou limpe os filtros.</p>
+        <button type="button" class="btn btn--ghost" id="emptyReset">Limpar busca e filtros</button>
+      </div>
+    </section>
+
+    <!-- Onde estamos -->
+    <svg class="wave wave--flip" viewBox="0 0 1440 60" preserveAspectRatio="none" aria-hidden="true"><path d="M0 30 C 120 0, 240 60, 360 30 S 600 0, 720 30 S 960 60, 1080 30 S 1320 0, 1440 30 V60 H0Z"/></svg>
+    <section class="where" id="onde" aria-labelledby="whereTitle">
+      <div class="wrap where__grid">
+        <div class="where__info">
+          <p class="kicker kicker--dark">Onde estamos</p>
+          <h2 class="h2" id="whereTitle">Praça Santa Terezinha, <em>159</em>.</h2>
+          <p class="where__addr"><span data-loja="endereco"></span> · <span data-loja="cidade"></span> · CEP <span data-loja="cep"></span></p>
+          <div class="where__cta" id="whereCta"></div>
+          <div class="cards3">
+            <div class="infocard"><h3>Horários</h3><ul class="hours" id="hours"></ul></div>
+            <div class="infocard"><h3>Entrega</h3><ul class="fees" id="fees"></ul><p class="small">Até <span data-loja-raio></span> km. Retirada no balcão em <span data-loja-entrega="retirada"></span>.</p></div>
+            <div class="infocard"><h3>Pagamento</h3><ul class="plain" id="payments"></ul><p class="small" data-loja="pagamentoNota"></p>
+              <h3 class="mt">No Google</h3><p class="rating"><b data-loja="nota"></b> de 5 · <span data-loja="avaliacoes"></span> avaliações</p></div>
+          </div>
+          <blockquote class="quote">“<span data-frase="instagram"></span>”<cite>X Calota Taubaté, no Instagram (@<span data-loja="instagram"></span>)</cite></blockquote>
+        </div>
+        <div class="where__map">
+          <iframe id="mapFrame" title="Mapa com a localização do X Calota Taubaté" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          <figure class="ad"><img data-foto="anuncio" alt="Anúncio do X Calota: Adeus fome" loading="lazy"><figcaption>Anúncio publicado pela loja no Google Maps</figcaption></figure>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="wrap footer__inner">
+      <div class="footer__brand"><img src="fotos/local/logo-x-calota.webp" alt="" width="40" height="40"><span>X Calota Taubaté</span></div>
+      <p class="footer__note">Fotos dos itens: X Calota Taubaté. X Calota é uma marca da rede X Calota Brasil.</p>
+      <p class="footer__note"><b>Prévia de site criada para apresentação.</b></p>
+    </div>
+    <div class="footer__giant" aria-hidden="true">X CALOTA</div>
+  </footer>
+
+  <button type="button" class="cartbar" id="cartbar" aria-label="Ver sacola">
+    <span class="cartbar__count" id="cartbarCount">0</span>
+    <span class="cartbar__label">Ver sacola</span>
+    <span class="cartbar__total" id="cartbarTotal">R$ 0,00</span>
+  </button>
+
+  <div class="layer" id="detailLayer" hidden>
+    <div class="scrim" data-close></div>
+    <div class="detail" id="detail" role="dialog" aria-modal="true" aria-labelledby="detailName" tabindex="-1">
+      <div class="grabber" aria-hidden="true"><span></span></div>
+      <button type="button" class="close-btn" data-close aria-label="Fechar"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 7l10 10M17 7L7 17"/></svg></button>
+      <div class="detail__media" id="detailMedia"></div>
+      <div class="detail__body" id="detailBody"></div>
+    </div>
+  </div>
+
+  <div class="layer" id="cartLayer" hidden>
+    <div class="scrim" data-close></div>
+    <aside class="cart" id="cart" role="dialog" aria-modal="true" aria-labelledby="cartTitle" tabindex="-1">
+      <div class="grabber" aria-hidden="true"><span></span></div>
+      <header class="cart__head">
+        <h2 id="cartTitle">Sua sacola</h2>
+        <button type="button" class="close-btn" data-close aria-label="Fechar sacola"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 7l10 10M17 7L7 17"/></svg></button>
+      </header>
+      <div class="cart__body" id="cartBody"></div>
+      <footer class="cart__foot" id="cartFoot"></footer>
+    </aside>
+  </div>
+
+  <div class="explore" id="explore" role="dialog" aria-modal="true" aria-label="Galeria infinita do cardápio" hidden>
+    <div class="explore__world" id="exploreWorld"></div>
+    <div class="explore__ui">
+      <div class="explore__title"><span class="kicker">Galeria infinita</span><p>Arraste pra qualquer lado. Toque num lanche pra ver os detalhes.</p></div>
+      <button type="button" class="close-btn close-btn--lg" id="exploreClose" aria-label="Fechar galeria"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 7l10 10M17 7L7 17"/></svg></button>
+    </div>
+    <div class="explore__cursor" id="exploreCursor" aria-hidden="true">Arraste</div>
+  </div>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <script src="js/dados.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
